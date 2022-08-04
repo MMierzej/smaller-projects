@@ -1,0 +1,5 @@
+This Java mini-project is a GUI object editor with file operations support.
+It follows the MVC design pattern and the GUI is Swing-based.
+
+`build-and-run.sh` builds and launches the program with the command line arguments
+passed to it.
