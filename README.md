@@ -8,4 +8,4 @@
 
 `python-exercises` - contains a data drawer using `pandas` and `pyplot`, and exercises utilising multiple paradigms of programming
 
-`sqlalchemy-gtk-gui` - a Python GUI app with database operations for managing data about films
+`sqlalchemy-gtk-gui` - a Python GUI app with database operations for managing data about films (done before the Databases course)
