@@ -10,6 +10,8 @@
 
 [`sqlalchemy-gtk-gui`](./sqlalchemy-gtk-gui) - a Python GUI app with database operations for managing data about films (done before the Databases course)
 
+[Browary](https://github.com/MMierzej/browary) - Spring application
+
 [TicTacToe with Minimax algorithm](https://github.com/MMierzej/tictactoe-oop) - an object-oriented programming project in Java
 
 [Extended Game of Life](https://github.com/MMierzej/game-of-life-extended) - a team project, interactive GUI in Python
